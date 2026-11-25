@@ -1,0 +1,101 @@
+POLÍTICA DE PRIVACIDADE — REQPLAY
+
+Última atualização: 24 DE NOVEMBRO DE 2026
+
+1. INTRODUÇÃO E COMPROMISSO
+
+O site reqplay , doravante denominado simplesmente "reqplay", respeita a privacidade de seus usuários e está comprometido com a proteção dos dados pessoais coletados e tratados durante a navegação e utilização de seus serviços.
+
+Esta Política de Privacidade foi elaborada em conformidade com a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 - LGPD), o Marco Civil da Internet (Lei nº 12.965/2014) e demais normas aplicáveis no território brasileiro.
+
+Ao acessar ou utilizar o reqplay, o usuário declara estar ciente das práticas descritas neste documento.
+
+--------------------------------------------------------------------------------
+
+2. DEFINIÇÕES IMPORTANTES
+
+Para facilitar a compreensão desta Política, adotam-se as seguintes definições previstas na LGPD:
+- Dados Pessoais: qualquer informação relacionada a pessoa natural identificada ou identificável (como nome, e-mail, endereço IP, entre outros).
+- Titular: pessoa natural a quem se referem os dados pessoais que são objeto de tratamento.
+- Controlador: pessoa natural ou jurídica a quem competem as decisões referentes ao tratamento de dados pessoais (neste caso, o responsável pelo reqplay).
+- Tratamento: toda operação realizada com dados pessoais, como coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação.
+- Cookies: pequenos arquivos de texto armazenados no navegador ou dispositivo do usuário para registrar preferências e melhorar a experiência de navegação.
+
+--------------------------------------------------------------------------------
+
+3. DADOS COLETADOS
+
+O reqplay poderá coletar diferentes tipos de dados, dependendo da forma como o usuário interage com a plataforma:
+
+a) Dados fornecidos diretamente pelo usuário:
+- Informações de cadastro ou contato, tais como nome completo, endereço de e-mail, nome de usuário, telefone e outras informações enviadas voluntariamente por meio de formulários no site.
+
+b) Dados coletados automaticamente:
+- Registros de acesso (logs), incluindo endereço IP, data e hora de acesso, conforme exigido pelo Marco Civil da Internet;
+- Informações sobre o dispositivo e navegador utilizados (sistema operacional, tipo de navegador, resolução de tela);
+- Dados de navegação, páginas visitadas, tempo de permanência e interações dentro do site, obtidos por meio de cookies e ferramentas de análise.
+
+--------------------------------------------------------------------------------
+
+4. FINALIDADE E BASES LEGAIS DO TRATAMENTO
+
+Os dados pessoais coletados pelo reqplay são utilizados para as seguintes finalidades e amparados pelas respectivas bases legais da LGPD:
+
+- Prestação e funcionamento dos serviços: permitir o acesso às funcionalidades do site, gerenciar contas de usuários e atender solicitações (Base legal: Execução de contrato ou procedimentos preliminares, Art. 7º, V).
+- Comunicação com o usuário: responder dúvidas, enviar avisos importantes sobre o serviço ou comunicações autorizadas (Base legal: Execução de contrato ou Consentimento, Art. 7º, I e V).
+- Melhoria da plataforma e experiência do usuário: analisar métricas de acesso, corrigir falhas técnicas e otimizar o desempenho do site (Base legal: Legítimo interesse, Art. 7º, IX).
+- Segurança e prevenção a fraudes: proteger a integridade do site e dos usuários contra acessos não autorizados ou atividades ilícitas (Base legal: Legítimo interesse e cumprimento de obrigação legal, Art. 7º, II e IX).
+- Cumprimento de obrigações legais ou regulatórias: guarda de registros de acesso e atendimento a ordens judiciais ou administrativas (Base legal: Cumprimento de obrigação legal ou regulatória, Art. 7º, II).
+
+--------------------------------------------------------------------------------
+
+5. COMPARTILHAMENTO DE DADOS
+
+O reqplay não comercializa, aluga ou vende dados pessoais de seus usuários a terceiros. O compartilhamento de informações poderá ocorrer apenas nas seguintes hipóteses:
+
+- Fornecedores e parceiros tecnológicos: empresas que prestam serviços essenciais para a operação do site (como serviços de hospedagem em nuvem, servidores, ferramentas de análise de tráfego e envio de e-mails), sempre sob obrigações contratuais de confidencialidade e segurança.
+- Autoridades públicas e judiciais: quando necessário para cumprir obrigação legal, determinação judicial ou requisição de autoridades administrativas competentes (como a Autoridade Nacional de Proteção de Dados - ANPD).
+
+--------------------------------------------------------------------------------
+
+6. USO DE COOKIES
+
+O reqplay utiliza cookies e tecnologias semelhantes para garantir o funcionamento adequado do site, lembrar preferências do usuário e coletar estatísticas anônimas de uso.
+
+O usuário pode, a qualquer momento, configurar seu navegador para bloquear, recusar ou apagar cookies. Ressalta-se que a desativação de determinados cookies essenciais pode afetar o funcionamento correto de algumas funcionalidades do site.
+
+--------------------------------------------------------------------------------
+
+7. ARMAZENAMENTO E SEGURANÇA DOS DADOS
+
+O reqplay adota medidas técnicas e administrativas aptas a proteger os dados pessoais contra acessos não autorizados, destruição, perda, alteração, comunicação ou difusão indevida, tais como uso de protocolos seguros (HTTPS/SSL) e controle restrito de acesso.
+
+Os dados pessoais serão mantidos apenas pelo período necessário para cumprir as finalidades para as quais foram coletados, respeitando os prazos legais de guarda obrigatória (como o prazo mínimo de 6 meses para registros de acesso previsto no Marco Civil da Internet). Após esse período, os dados serão eliminados ou anonimizados de forma segura.
+
+--------------------------------------------------------------------------------
+
+8. DIREITOS DO TITULAR DOS DADOS
+
+Em conformidade com o Art. 18 da LGPD, o usuário, na condição de titular dos dados, possui o direito de solicitar ao reqplay, a qualquer momento:
+
+1. Confirmação da existência de tratamento de seus dados pessoais;
+2. Acesso aos dados pessoais tratados;
+3. Correção de dados incompletos, inexatos ou desatualizados;
+4. Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com a LGPD;
+5. Portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa;
+6. Eliminação dos dados pessoais tratados com base no consentimento, exceto nas hipóteses de guarda legal;
+7. Informação sobre as entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
+8. Informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa;
+9. Revogação do consentimento anteriormente concedido.
+
+--------------------------------------------------------------------------------
+
+9. ALTERAÇÕES DESTA POLÍTICA
+
+Esta Política de Privacidade poderá ser atualizada periodicamente para refletir melhorias no site ou alterações na legislação aplicável. Recomenda-se que o usuário revise este documento regularmente. A data da última atualização estará sempre indicada no início do texto.
+
+--------------------------------------------------------------------------------
+
+10. LEGISLAÇÃO APLICÁVEL E FORO
+
+Esta Política é regida pelas leis da República Federativa do Brasil. Fica eleito o foro da Comarca de Natal/RN, com renúncia a qualquer outro, por mais privilegiado que seja, para dirimir eventuais controvérsias decorrentes deste documento.

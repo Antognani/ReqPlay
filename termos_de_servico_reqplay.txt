@@ -1,0 +1,88 @@
+TERMOS DE SERVIÇO — REQPLAY
+
+Última atualização: 24 DE NOVEMBRO DE 2026
+
+1. ACEITAÇÃO DOS TERMOS E OBJETO
+
+Bem-vindo ao reqplay, doravante denominado simplesmente "reqplay".
+
+Estes Termos de Serviço ("Termos") regulam o acesso e a utilização do site, ferramentas, conteúdos e demais serviços oferecidos pelo reqplay. Ao acessar, navegar ou utilizar qualquer funcionalidade da plataforma, o usuário declara ter lido, compreendido e concordado integralmente com estes Termos, bem como com a nossa Política de Privacidade.
+
+Caso não concorde com qualquer disposição aqui prevista, o usuário deverá interromper imediatamente o uso do site.
+
+--------------------------------------------------------------------------------
+
+2. ELEGIBILIDADE E CADASTRO DO USUÁRIO
+
+2.1. Capacidade Civil: O uso do reqplay é destinado a pessoas com idade igual ou superior a 18 (dezoito) anos e plenamente capazes nos termos do Código Civil Brasileiro. Menores de 18 anos somente poderão utilizar a plataforma mediante autorização e supervisão de seus pais ou responsáveis legais.
+
+2.2. Conta de Acesso: Caso determinadas funcionalidades exijam criação de conta, o usuário compromete-se a fornecer informações verdadeiras, completas e atualizadas, responsabilizando-se civil e criminalmente pela veracidade dos dados informados.
+
+2.3. Segurança das Credenciais: O usuário é o único responsável pela guarda e sigilo de seu login e senha, bem como por todas as atividades realizadas em sua conta. Em caso de suspeita de uso não autorizado, o usuário deverá notificar imediatamente o reqplay.
+
+--------------------------------------------------------------------------------
+
+3. REGRAS DE USO E CONDUTAS PROIBIDAS
+
+O usuário compromete-se a utilizar o reqplay de forma ética, lícita e em conformidade com a legislação brasileira vigente, abstendo-se de:
+
+a) Violar leis, regulamentos, direitos de terceiros ou a ordem pública;
+b) Utilizar robôs, spiders, scrapers ou quaisquer meios automatizados não autorizados para acessar, monitorar ou copiar conteúdos e dados do site;
+c) Tentar obter acesso não autorizado a sistemas, servidores, bancos de dados ou contas de outros usuários;
+d) Introduzir vírus, malwares, códigos maliciosos ou realizar ataques de negação de serviço (DDoS) que possam comprometer a segurança ou a estabilidade da plataforma;
+e) Reproduzir, distribuir, comercializar ou explorar economicamente qualquer parte do reqplay sem autorização prévia e expressa;
+f) Praticar atos que configurem fraude, falsidade ideológica, difamação, assédio ou violação de direitos autorais.
+
+--------------------------------------------------------------------------------
+
+4. PROPRIEDADE INTELECTUAL
+
+Todos os direitos de propriedade intelectual relativos ao reqplay — incluindo, mas não se limitando a, marca, logotipo, nome de domínio, layout, design, textos, gráficos, códigos-fonte, softwares, bancos de dados e funcionalidades — pertencem exclusivamente ao reqplay ou a seus respectivos licenciadores, sendo protegidos pela Lei de Direitos Autorais (Lei nº 9.610/1998), pela Lei de Propriedade Industrial (Lei nº 9.279/1996) e demais normas aplicáveis.
+
+Estes Termos concedem ao usuário apenas uma licença limitada, pessoal, não exclusiva, intransferível e revogável para acessar e utilizar o site conforme sua finalidade. Nenhuma disposição deste documento transfere ao usuário qualquer titularidade sobre a propriedade intelectual do reqplay.
+
+--------------------------------------------------------------------------------
+
+5. SERVIÇOS, PLANOS E PAGAMENTOS (SE APLICÁVEL)
+
+5.1. Funcionalidades Gratuitas e Pagas: O reqplay poderá oferecer funcionalidades gratuitas e/ou planos pagos. Os valores, formas de pagamento, periodicidade e condições específicas de eventuais serviços pagos serão informados de maneira clara antes da contratação.
+
+5.2. Direito de Arrependimento: Nas contratações realizadas à distância, o usuário consumidor poderá exercer o direito de arrependimento no prazo de até 7 (sete) dias corridos a contar da data da contratação, nos termos do Art. 49 do Código de Defesa do Consumidor (Lei nº 8.078/1990), mediante solicitação pelos canais de atendimento.
+
+--------------------------------------------------------------------------------
+
+6. DISPONIBILIDADE E LIMITAÇÃO DE RESPONSABILIDADE
+
+6.1. Disponibilidade: O reqplay emprega esforços contínuos para manter o site disponível, seguro e funcional. Contudo, não garante que o acesso será ininterrupto ou livre de erros, podendo ocorrer indisponibilidades temporárias decorrentes de manutenções técnicas, atualizações ou falhas de terceiros (como provedores de internet e hospedagem).
+
+6.2. Links de Terceiros: O site pode conter links para sites ou serviços de terceiros. O reqplay não controla nem se responsabiliza pelo conteúdo, políticas ou práticas de plataformas externas.
+
+6.3. Isenção de Responsabilidade: Na máxima extensão permitida pela legislação brasileira, o reqplay não se responsabiliza por danos indiretos, lucros cessantes, perda de dados ou prejuízos decorrentes do uso inadequado da plataforma pelo usuário, de caso fortuito ou força maior.
+
+--------------------------------------------------------------------------------
+
+7. PRIVACIDADE E PROTEÇÃO DE DADOS
+
+O tratamento de dados pessoais realizado no âmbito do reqplay obedece à Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 - LGPD) e ao Marco Civil da Internet (Lei nº 12.965/2014). Para obter informações detalhadas sobre coleta, uso, armazenamento e direitos dos titulares, consulte nossa Política de Privacidade disponível no site.
+
+--------------------------------------------------------------------------------
+
+8. SUSPENSÃO E ENCERRAMENTO
+
+O reqplay reserva-se o direito de suspender ou encerrar, temporária ou definitivamente, o acesso ou a conta de qualquer usuário que descumpra estes Termos, viole a legislação aplicável ou coloque em risco a segurança da plataforma e de terceiros, sem prejuízo das medidas legais cabíveis.
+
+O usuário também poderá solicitar o encerramento de sua conta ou deixar de utilizar os serviços a qualquer momento.
+
+--------------------------------------------------------------------------------
+
+9. ALTERAÇÕES DESTES TERMOS
+
+O reqplay poderá revisar e atualizar estes Termos de Serviço periodicamente para refletir mudanças nas funcionalidades do site, no modelo de negócios ou na legislação vigente. As alterações entrarão em vigor a partir de sua publicação no site, com a atualização da data no topo deste documento. O uso continuado da plataforma após as modificações representa a concordância com os novos Termos.
+
+--------------------------------------------------------------------------------
+
+10. LEGISLAÇÃO APLICÁVEL E FORO
+
+Estes Termos de Serviço são regidos e interpretados de acordo com as leis da República Federativa do Brasil.
+
+Fica eleito o foro da Comarca de Natal/RN para dirimir quaisquer litígios ou controvérsias oriundos deste documento, ressalvado o direito do usuário consumidor de optar pelo foro de seu domicílio, conforme previsto no Código de Defesa do Consumidor.
